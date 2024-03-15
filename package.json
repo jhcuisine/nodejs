@@ -4,13 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "list-rules": "eslint-index .eslintrc",
-    "count-rules": "eslint-index .eslintrc --format number",
-    "table-rules": "eslint-index .eslintrc --format table",
-    "list-rules-with-docs": "eslint-index .eslintrc --docs",
-    "list-eslint-rules": "eslint-index .eslintrc --groups eslint",
-    "list-disabled-rules": "eslint-index .eslintrc --status omitted off"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
